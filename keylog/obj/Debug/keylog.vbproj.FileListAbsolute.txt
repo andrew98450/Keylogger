@@ -1,0 +1,20 @@
+C:\Users\Anony\Desktop\keylog\keylog\bin\Debug\keylog.exe.config
+C:\Users\Anony\Desktop\keylog\keylog\bin\Debug\keylog.exe
+C:\Users\Anony\Desktop\keylog\keylog\bin\Debug\keylog.pdb
+C:\Users\Anony\Desktop\keylog\keylog\bin\Debug\keylog.xml
+C:\Users\Anony\Desktop\keylog\keylog\obj\Debug\keylog.Form1.resources
+C:\Users\Anony\Desktop\keylog\keylog\obj\Debug\keylog.Resources.resources
+C:\Users\Anony\Desktop\keylog\keylog\obj\Debug\keylog.vbproj.GenerateResource.Cache
+C:\Users\Anony\Desktop\keylog\keylog\obj\Debug\keylog.exe
+C:\Users\Anony\Desktop\keylog\keylog\obj\Debug\keylog.xml
+C:\Users\Anony\Desktop\keylog\keylog\obj\Debug\keylog.pdb
+G:\Visual Studio 專案\keylog\keylog\bin\Debug\keylog.exe.config
+G:\Visual Studio 專案\keylog\keylog\obj\Debug\keylog.exe
+G:\Visual Studio 專案\keylog\keylog\obj\Debug\keylog.xml
+G:\Visual Studio 專案\keylog\keylog\obj\Debug\keylog.pdb
+G:\Visual Studio 專案\keylog\keylog\bin\Debug\keylog.exe
+G:\Visual Studio 專案\keylog\keylog\bin\Debug\keylog.pdb
+G:\Visual Studio 專案\keylog\keylog\bin\Debug\keylog.xml
+G:\Visual Studio 專案\keylog\keylog\obj\Debug\keylog.Form1.resources
+G:\Visual Studio 專案\keylog\keylog\obj\Debug\keylog.Resources.resources
+G:\Visual Studio 專案\keylog\keylog\obj\Debug\keylog.vbproj.GenerateResource.Cache
